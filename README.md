@@ -1,4 +1,4 @@
-# Deep-learning
+# Deep Learning Coursework
 
 Deep-learning coursework from Fall 2023, written in Google Colab with TensorFlow/Keras.
 Each notebook opens directly in Colab from its badge.
