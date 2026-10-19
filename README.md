@@ -14,8 +14,8 @@ Each notebook opens directly in Colab from its badge.
 | `11_25_set_theory_assignment.ipynb` | pandas DataFrame practice | Toy data |
 
 ## Stack
-Python · TensorFlow / Keras · scikit-learn · pandas · scikit-image · Hugging Face Transformers
+Python, TensorFlow/Keras, scikit-learn, pandas, scikit-image, Hugging Face Transformers
 
 ## Notes
 - The face-image notebooks read data from Google Drive, so the image files are not included here.
-- These are course exercises, kept as a record of how I learned the basics.
+- These are class exercises from when I was learning the basics.
